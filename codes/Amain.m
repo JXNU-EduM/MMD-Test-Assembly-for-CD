@@ -5,7 +5,7 @@ Models={'DINA','DINO','R-RUM'};
 RHOs=[0,0.5];
 A=4;
 J=20;
-for A=4:4:8%attributes
+for A=4:4:8
     if A==4
         JM=[3 2 1;9 7 4];
     else
