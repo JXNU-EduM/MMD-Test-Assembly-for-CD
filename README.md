@@ -11,6 +11,6 @@ When writing a paper or producing a software application, tool, or interface bas
 # Contributors
 Associate Professor: Wenyi Wang(汪文义), Lihong Song(宋丽红）
 
-Students: Juanjuan Zheng (郑娟娟), Yukun Tu（涂昱堃），Peng Gao(高朋)
+Students: Juanjuan Zheng(郑娟娟), Yukun Tu(涂昱堃)，Peng Gao(高朋)
 # Contact Us
 If you have any questions, suggestions or bug reports, please feel free to email hicosdor@aliyun.com.
